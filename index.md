@@ -7,7 +7,7 @@ legacyId: 5917
 
 # Codeaffinity Risky Controls End-User Documentation
 
-This documentation contains information on individual user interface elements (such as grids, navigation panes, data editors, charts, etc.), and provides instructions for end users about how to solve the most-common tasks with these interface elements.
+This documentation contains information on the Report Designer, Report Viewer, Dashboard Designer and Dashboard Viewer, and provides instructions for end users about how to solve the most-common tasks with these interface elements.
 
 The end user documentation is divided into the following platforms and products:
 
