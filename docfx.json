@@ -10,7 +10,7 @@
             "index.md"
           ],
         "exclude": [
-          "_*/**",
+          "_*/**"
         ]
       }
     ],
@@ -43,7 +43,8 @@
       "_appFaviconPath": "favicon.ico",
       "_appFooter": "Copyright (c) 2024 Codeaffinity Technologies. All rights reserved.",
       "_appLogoPath": "logo.svg",
-      "_enableSearch": true
+      "_enableSearch": true,
+      "_disableContribution": true
     }
   }
 }

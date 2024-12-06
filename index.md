@@ -11,8 +11,7 @@ This documentation contains information on individual user interface elements (s
 
 The end user documentation is divided into the following platforms and products:
 
-#### Web (ASP.NET):
+#### Risky Web (.NET 8.0 Aspire):
 
 * [Risky Reporting for Web](reporting-for-web/articles/index.md)
 * [Risky Dashboard for Web](dashboard-for-web/articles/index.md)
-* [Risky Interface Elements for Web](interface-elements-for-web/articles/index.md)
