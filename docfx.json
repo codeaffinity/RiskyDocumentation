@@ -17,8 +17,7 @@
     "resource": [
       {
         "files": [
-            "favicon.ico",
-            "logo.svg",
+            "favicon.png",
             "dashboard-for-web/images/**",
             "interface-elements-for-web/images/**",
             "reporting-for-web/images/**"
