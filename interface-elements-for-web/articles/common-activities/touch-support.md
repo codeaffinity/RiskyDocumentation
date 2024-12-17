@@ -4,9 +4,9 @@ author: Alexey Kazakov
 legacyId: 11374
 ---
 # Touch Support
-DevExpress ASP.NET controls have an ability to work properly in touch device browsers. Touch is supported on the iOS browser, the default browser of Android 3+ and Internet Explorer 10+ on Windows 8+ and Windows Phone 8.
+Controls have an ability to work properly in touch device browsers. Touch is supported on the iOS browser, the default browser of Android 3+ and Internet Explorer 10+ on Windows 8+ and Windows Phone 8.
 
-The following is a list of DevExpress ASP.NET controls with touch support (along with what can be executed using gestures):
+The following is a list of controls with touch support (along with what can be executed using gestures):
 * **Callback Panel** - scrolling;
 * **Calendar** - swipe-to-page gesture, slide paging animation;
 * **Combo Box** - scrolling;
