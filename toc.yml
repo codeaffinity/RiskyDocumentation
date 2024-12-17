@@ -1,7 +1,10 @@
 items:
-- name: Reporting for Web
+- name: General Controls & Interface Elements
+  href: interface-elements-for-web/
+  topicHref: interface-elements-for-web/articles/index.md
+- name: Report Designer & Viewer
   href: reporting-for-web/
   topicHref: reporting-for-web/articles/index.md
-- name: Dashboard for Web
+- name: Dashboard Designer & Viewer
   href: dashboard-for-web/
   topicHref: dashboard-for-web/articles/index.md
