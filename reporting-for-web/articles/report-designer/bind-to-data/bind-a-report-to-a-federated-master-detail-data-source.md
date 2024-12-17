@@ -1,6 +1,6 @@
 ---
 title: Bind a Report to a Federated Master-Detail Data Source
-owner: Boris Zaitsev
+owner: Sandakelum Senevirathna
 ---
 # Bind a Report to a Federated Master-Detail Data Source
 

@@ -1,6 +1,6 @@
 ---
 title: Insert a YouTube Video
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17969
 ---
 # Insert a YouTube Video

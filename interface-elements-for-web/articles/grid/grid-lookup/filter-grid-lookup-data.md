@@ -1,6 +1,6 @@
 ---
 title: Filter Grid Lookup Data
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 9355
 ---
 # Filter Grid Lookup Data

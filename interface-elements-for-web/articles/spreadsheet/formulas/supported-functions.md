@@ -1,6 +1,6 @@
 ---
 title: Supported Functions
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18245
 ---
 # Supported Functions

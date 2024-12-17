@@ -1,6 +1,6 @@
 ---
 title: Scheduler 'More' Buttons
-author: Boris Zaitsev
+author: Sandakelum Senevirathna
 legacyId: 5040
 ---
 # Scheduler 'More' Buttons

@@ -1,6 +1,6 @@
 ---
 title: Column Chooser
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16832
 ---
 # Column Chooser

@@ -1,6 +1,6 @@
 ---
 title: Text Formatting
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113994
 ---
 # Text Formatting

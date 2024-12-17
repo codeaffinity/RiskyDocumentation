@@ -1,6 +1,6 @@
 ---
 title: Date Range Header Filter
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 11814
 ---
 # Date Range Header Filter

@@ -1,6 +1,6 @@
 ---
 title: Lay Out Text in Columns
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113823
 ---
 # Lay Out Text in Columns

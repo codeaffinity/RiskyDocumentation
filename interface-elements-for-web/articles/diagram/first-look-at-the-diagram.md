@@ -1,6 +1,6 @@
 ---
 title: First Look at the Diagram
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # First Look at the Diagram
 

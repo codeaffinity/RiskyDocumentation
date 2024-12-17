@@ -1,6 +1,6 @@
 ---
 title: Responsive Layout
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # Responsive Layout
 

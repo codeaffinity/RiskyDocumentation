@@ -1,6 +1,6 @@
 ---
 title: Filter Data by Field Values
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 11185
 ---
 # Filter Data by Field Values

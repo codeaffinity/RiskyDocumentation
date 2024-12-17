@@ -1,6 +1,6 @@
 ---
 title: Page and View Settings
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # Page and View Settings
 

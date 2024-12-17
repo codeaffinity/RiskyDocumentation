@@ -1,6 +1,6 @@
 ---
 title: Paste Formatting
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17903
 ---
 # Paste Formatting

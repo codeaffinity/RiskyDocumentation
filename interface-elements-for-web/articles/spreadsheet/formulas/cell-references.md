@@ -1,6 +1,6 @@
 ---
 title: Cell References
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18242
 ---
 # Cell References

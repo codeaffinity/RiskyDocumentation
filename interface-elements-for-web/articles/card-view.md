@@ -1,6 +1,6 @@
 ---
 title: Card View
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 115295
 ---
 # Card View

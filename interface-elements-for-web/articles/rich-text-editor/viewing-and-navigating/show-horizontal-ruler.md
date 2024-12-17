@@ -1,6 +1,6 @@
 ---
 title: Show Horizontal Ruler
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113850
 ---
 # Show Horizontal Ruler

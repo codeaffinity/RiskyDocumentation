@@ -1,6 +1,6 @@
 ---
 title: Modify Video Settings
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17965
 ---
 # Modify Video Settings

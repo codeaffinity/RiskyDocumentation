@@ -1,6 +1,6 @@
 ---
 title: Sort Data in Pivot Tables
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 5373
 ---
 # Sort Data in Pivot Tables

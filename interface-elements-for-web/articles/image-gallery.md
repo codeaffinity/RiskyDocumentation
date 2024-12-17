@@ -1,6 +1,6 @@
 ---
 title: Image Gallery
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16831
 ---
 # Image Gallery

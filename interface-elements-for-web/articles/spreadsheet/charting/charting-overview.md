@@ -1,6 +1,6 @@
 ---
 title: Charting Overview
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18186
 ---
 # Charting Overview

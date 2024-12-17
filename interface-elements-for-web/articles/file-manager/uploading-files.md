@@ -1,6 +1,6 @@
 ---
 title: Uploading Files
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 9364
 ---
 # Uploading Files

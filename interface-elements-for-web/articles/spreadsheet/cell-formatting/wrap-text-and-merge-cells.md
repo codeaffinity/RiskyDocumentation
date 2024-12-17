@@ -1,6 +1,6 @@
 ---
 title: Wrap Text and Merge Cells
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18145
 ---
 # Wrap Text and Merge Cells

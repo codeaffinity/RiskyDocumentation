@@ -1,6 +1,6 @@
 ---
 title: Expand and Collapse Tree View Nodes
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 9348
 ---
 # Expand and Collapse Tree View Nodes

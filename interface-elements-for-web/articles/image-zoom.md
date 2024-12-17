@@ -1,6 +1,6 @@
 ---
 title: Image Zoom
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17389
 ---
 # Image Zoom

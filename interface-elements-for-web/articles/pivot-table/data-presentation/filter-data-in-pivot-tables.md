@@ -1,6 +1,6 @@
 ---
 title: Filter Data in Pivot Tables
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 5372
 ---
 # Filter Data in Pivot Tables

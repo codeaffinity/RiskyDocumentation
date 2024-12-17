@@ -1,6 +1,6 @@
 ---
 title: Splitter
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 7495
 ---
 # Splitter

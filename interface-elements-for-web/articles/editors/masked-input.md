@@ -1,6 +1,6 @@
 ---
 title: Masked Input
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 5817
 ---
 # Masked Input

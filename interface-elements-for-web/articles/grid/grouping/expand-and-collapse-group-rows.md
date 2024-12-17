@@ -1,6 +1,6 @@
 ---
 title: Expand and Collapse Group Rows
-author: Bogdan Harchenko
+author: Sandakelum Senevirathna
 legacyId: 4143
 ---
 # Expand and Collapse Group Rows

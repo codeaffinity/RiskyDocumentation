@@ -1,6 +1,6 @@
 ---
 title: Find and Replace Dialog
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 7835
 ---
 # Find and Replace Dialog

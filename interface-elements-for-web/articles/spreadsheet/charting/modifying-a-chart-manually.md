@@ -1,6 +1,6 @@
 ---
 title: Modifying a Chart Manually
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18190
 ---
 # Modifying a Chart Manually

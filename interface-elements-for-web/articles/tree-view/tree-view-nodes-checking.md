@@ -1,6 +1,6 @@
 ---
 title: Tree View Nodes Checking
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # Tree View Nodes Checking
 Click a checkbox to toggle the node's checked state.

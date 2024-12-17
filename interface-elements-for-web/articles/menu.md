@@ -1,6 +1,6 @@
 ---
 title: Menu
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # Menu
 The Menu enables you to navigate through a website.

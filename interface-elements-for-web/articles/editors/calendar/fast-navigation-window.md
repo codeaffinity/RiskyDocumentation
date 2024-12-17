@@ -1,6 +1,6 @@
 ---
 title: Fast Navigation Window
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16841
 ---
 # Fast Navigation Window

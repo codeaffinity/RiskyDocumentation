@@ -1,6 +1,6 @@
 ---
 title: Remove a Hyperlink
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4521
 ---
 # Remove a Hyperlink

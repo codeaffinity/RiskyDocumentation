@@ -1,6 +1,6 @@
 ---
 title: Page Navigation
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 115285
 ---
 # Page Navigation

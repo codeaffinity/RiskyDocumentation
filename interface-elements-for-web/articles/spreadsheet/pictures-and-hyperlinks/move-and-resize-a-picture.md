@@ -1,6 +1,6 @@
 ---
 title: Move and Resize a Picture
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18184
 ---
 # Move and Resize a Picture

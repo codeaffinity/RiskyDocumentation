@@ -1,6 +1,6 @@
 ---
 title: Switch to Edit Mode
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 118058
 ---
 # Switch to Edit Mode

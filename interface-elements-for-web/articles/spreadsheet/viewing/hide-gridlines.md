@@ -1,6 +1,6 @@
 ---
 title: Hide and Display Gridlines
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113717
 ---
 # Hide and Display Gridlines

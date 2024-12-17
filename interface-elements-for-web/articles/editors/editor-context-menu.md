@@ -1,6 +1,6 @@
 ---
 title: Editor Context Menu
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 5574
 ---
 # Editor Context Menu

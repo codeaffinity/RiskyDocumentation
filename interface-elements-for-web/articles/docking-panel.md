@@ -1,6 +1,6 @@
 ---
 title: Docking Panel
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 11388
 ---
 # Docking Panel

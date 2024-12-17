@@ -1,6 +1,6 @@
 ---
 title: Creating a Chart
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18187
 ---
 # Creating a Chart

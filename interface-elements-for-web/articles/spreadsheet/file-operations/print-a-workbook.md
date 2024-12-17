@@ -1,6 +1,6 @@
 ---
 title: Print a Workbook
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18107
 ---
 # Print a Workbook

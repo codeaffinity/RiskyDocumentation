@@ -1,6 +1,6 @@
 ---
 title: Mail Merge
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113845
 ---
 # Mail Merge

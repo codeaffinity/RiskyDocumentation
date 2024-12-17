@@ -1,6 +1,6 @@
 ---
 title: Using Tabs
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113860
 ---
 # Using Tabs

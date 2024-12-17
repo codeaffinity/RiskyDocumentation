@@ -1,6 +1,6 @@
 ---
 title: Import Text Files
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113720
 ---
 # Import Text Files

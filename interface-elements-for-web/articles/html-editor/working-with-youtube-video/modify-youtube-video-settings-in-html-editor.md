@@ -1,6 +1,6 @@
 ---
 title: Modify YouTube Video Settings
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17966
 ---
 # Modify YouTube Video Settings

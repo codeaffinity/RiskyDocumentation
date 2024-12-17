@@ -1,6 +1,6 @@
 ---
 title: Manage Dependencies
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 ---
 # Manage Dependencies
 

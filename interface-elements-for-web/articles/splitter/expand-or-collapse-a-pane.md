@@ -1,6 +1,6 @@
 ---
 title: Expand or Collapse a Pane
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 7416
 ---
 # Expand or Collapse a Pane

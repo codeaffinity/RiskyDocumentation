@@ -1,6 +1,6 @@
 ---
 title: Bulleted Lists
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113842
 ---
 # Bulleted Lists

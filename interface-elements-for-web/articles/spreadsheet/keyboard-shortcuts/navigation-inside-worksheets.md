@@ -1,6 +1,6 @@
 ---
 title: Navigation inside Worksheets
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113753
 ---
 # Navigation inside Worksheets

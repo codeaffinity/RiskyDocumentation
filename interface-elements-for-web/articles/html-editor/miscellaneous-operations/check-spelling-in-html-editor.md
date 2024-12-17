@@ -1,6 +1,6 @@
 ---
 title: Check Spelling
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 5360
 ---
 # Check Spelling

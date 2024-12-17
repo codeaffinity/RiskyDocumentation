@@ -1,6 +1,6 @@
 ---
 title: Captcha
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 9351
 ---
 # Captcha

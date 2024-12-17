@@ -1,6 +1,6 @@
 ---
 title: Drag Handle Drag-n-Drop
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 11393
 ---
 # Drag Handle Drag-n-Drop

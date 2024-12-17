@@ -1,6 +1,6 @@
 ---
 title: Flash Settings
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17994
 ---
 # Flash Settings

@@ -1,6 +1,6 @@
 ---
 title: Insert and Delete Columns and Rows
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18148
 ---
 # Insert and Delete Columns and Rows 

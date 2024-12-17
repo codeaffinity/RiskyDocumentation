@@ -1,6 +1,6 @@
 ---
 title: Vertical Grid
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 118090
 ---
 # Vertical Grid

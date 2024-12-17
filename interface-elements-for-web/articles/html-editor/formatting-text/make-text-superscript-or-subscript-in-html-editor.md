@@ -1,6 +1,6 @@
 ---
 title: Make Text Superscript or Subscript
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4497
 ---
 # Make Text Superscript or Subscript

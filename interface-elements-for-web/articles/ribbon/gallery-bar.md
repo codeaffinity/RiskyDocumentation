@@ -1,6 +1,6 @@
 ---
 title: Gallery Bar
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 114194
 ---
 # Gallery Bar

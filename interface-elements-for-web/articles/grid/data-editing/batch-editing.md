@@ -1,6 +1,6 @@
 ---
 title: Batch Editing
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16833
 ---
 # Batch Editing

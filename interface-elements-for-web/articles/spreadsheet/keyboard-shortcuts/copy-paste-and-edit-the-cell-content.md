@@ -1,6 +1,6 @@
 ---
 title: Copy, Paste and Edit the Cell Content
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113755
 ---
 # Copy, Paste and Edit the Cell Content

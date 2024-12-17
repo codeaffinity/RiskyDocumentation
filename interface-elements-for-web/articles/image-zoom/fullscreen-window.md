@@ -1,6 +1,6 @@
 ---
 title: Fullscreen Window
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17391
 ---
 # Fullscreen Window

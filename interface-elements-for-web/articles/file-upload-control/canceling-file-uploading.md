@@ -1,6 +1,6 @@
 ---
 title: Canceling File Uploading
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 5831
 ---
 # Canceling File Uploading

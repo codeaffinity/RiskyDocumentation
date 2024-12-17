@@ -1,6 +1,6 @@
 ---
 title: Bind a Report to a Join-Based Federated Data Source
-owner: Boris Zaitsev
+owner: Sandakelum Senevirathna
 ---
 # Bind a Report to a Join-Based Federated Data Source
 

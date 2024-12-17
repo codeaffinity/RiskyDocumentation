@@ -1,6 +1,6 @@
 ---
 title: News Control
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 17405
 ---
 # News Control

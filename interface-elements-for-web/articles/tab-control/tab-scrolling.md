@@ -1,6 +1,6 @@
 ---
 title: Tab Scrolling
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 9381
 ---
 # Tab Scrolling

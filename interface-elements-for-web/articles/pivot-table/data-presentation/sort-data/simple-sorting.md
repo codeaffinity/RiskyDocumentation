@@ -1,6 +1,6 @@
 ---
 title: Simple Sorting
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 11058
 ---
 # Simple Sorting

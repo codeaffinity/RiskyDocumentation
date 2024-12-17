@@ -1,6 +1,6 @@
 ---
 title: Printing Content
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 5358
 ---
 # Printing Content

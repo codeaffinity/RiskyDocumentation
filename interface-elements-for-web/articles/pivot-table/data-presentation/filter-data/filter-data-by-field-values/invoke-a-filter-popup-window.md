@@ -1,6 +1,6 @@
 ---
 title: Invoke a Filter Popup Window
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 11186
 ---
 # Invoke a Filter Popup Window

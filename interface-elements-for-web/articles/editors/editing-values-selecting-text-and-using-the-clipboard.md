@@ -1,6 +1,6 @@
 ---
 title: Editing Values, Selecting Text and Using the Clipboard
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 5455
 ---
 # Editing Values, Selecting Text and Using the Clipboard

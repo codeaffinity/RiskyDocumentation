@@ -1,6 +1,6 @@
 ---
 title: Work with Selections
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113990
 ---
 # Work with Selections

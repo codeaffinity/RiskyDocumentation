@@ -1,6 +1,6 @@
 ---
 title: Select Text
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113831
 ---
 # Select Text

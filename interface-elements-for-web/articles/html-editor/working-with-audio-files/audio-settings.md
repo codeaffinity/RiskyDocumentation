@@ -1,6 +1,6 @@
 ---
 title: Audio Settings
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17971
 ---
 # Audio Settings

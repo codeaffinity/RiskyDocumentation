@@ -1,6 +1,6 @@
 ---
 title: Hide Fields Using a Field List
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 11065
 ---
 # Hide Fields Using a Field List

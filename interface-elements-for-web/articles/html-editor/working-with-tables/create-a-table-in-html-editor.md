@@ -1,6 +1,6 @@
 ---
 title: Create a Table
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 6993
 ---
 # Create a Table

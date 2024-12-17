@@ -1,6 +1,6 @@
 ---
 title: Use Cross Tab
-author: Boris Zaitsev
+author: Sandakelum Senevirathna
 ---
 # Use Cross Tab
 

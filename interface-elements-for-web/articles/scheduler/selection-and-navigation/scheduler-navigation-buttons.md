@@ -1,6 +1,6 @@
 ---
 title: Scheduler Navigation Buttons
-author: Boris Zaitsev
+author: Sandakelum Senevirathna
 legacyId: 5039
 ---
 # Scheduler Navigation Buttons

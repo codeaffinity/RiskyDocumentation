@@ -1,6 +1,6 @@
 ---
 title: Create a Simple Formula
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18241
 ---
 # Create a Simple Formula

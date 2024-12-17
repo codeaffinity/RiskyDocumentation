@@ -1,6 +1,6 @@
 ---
 title: Filtering Files
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 ---
 # Filtering Files
 You can filter file manager items within the current folder and subfolders. 

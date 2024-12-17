@@ -1,6 +1,6 @@
 ---
 title: Insert a Video Into
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17968
 ---
 # Insert a Video Into

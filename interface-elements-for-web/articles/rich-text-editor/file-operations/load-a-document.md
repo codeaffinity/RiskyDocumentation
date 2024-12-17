@@ -1,6 +1,6 @@
 ---
 title: Open a Document
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113812
 ---
 # Open a Document

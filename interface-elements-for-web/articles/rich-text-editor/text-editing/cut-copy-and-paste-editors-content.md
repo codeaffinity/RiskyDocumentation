@@ -1,6 +1,6 @@
 ---
 title: Cut, Copy and Paste Editor's Content
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113833
 ---
 # Cut, Copy and Paste Editor's Content

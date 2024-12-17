@@ -1,6 +1,6 @@
 ---
 title: Image Uploading
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 114195
 ---
 # Image Uploading

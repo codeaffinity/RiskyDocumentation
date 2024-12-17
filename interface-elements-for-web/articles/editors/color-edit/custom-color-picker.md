@@ -1,6 +1,6 @@
 ---
 title: Custom Color Picker
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16844
 ---
 # Custom Color Picker

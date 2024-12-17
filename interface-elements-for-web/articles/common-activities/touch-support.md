@@ -1,6 +1,6 @@
 ---
 title: Touch Support
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 11374
 ---
 # Touch Support

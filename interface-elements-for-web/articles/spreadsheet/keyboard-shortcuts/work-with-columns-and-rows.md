@@ -1,6 +1,6 @@
 ---
 title: Work with Columns and Rows
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113767
 ---
 # Work with Columns and Rows

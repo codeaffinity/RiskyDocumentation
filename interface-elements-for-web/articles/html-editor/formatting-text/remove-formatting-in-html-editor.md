@@ -1,6 +1,6 @@
 ---
 title: Remove Formatting
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4496
 ---
 # Remove Formatting

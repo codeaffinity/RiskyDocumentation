@@ -1,6 +1,6 @@
 ---
 title: YouTube Video Settings
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17998
 ---
 # YouTube Video Settings

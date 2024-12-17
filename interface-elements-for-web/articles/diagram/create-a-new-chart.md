@@ -1,6 +1,6 @@
 ---
 title: Create a New Chart
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # Create a New Chart
 This topic explains how to create a new chart and customize its settings.

@@ -1,6 +1,6 @@
 ---
 title: Apply Strikethrough Formatting
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4493
 ---
 # Apply Strikethrough Formatting

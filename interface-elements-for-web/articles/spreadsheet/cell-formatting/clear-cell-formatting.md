@@ -1,6 +1,6 @@
 ---
 title: Clear Cell Formatting
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18147
 ---
 # Clear Cell Formatting

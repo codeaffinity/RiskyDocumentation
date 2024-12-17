@@ -1,6 +1,6 @@
 ---
 title: Error Types in Formulas
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18247
 ---
 # Error Types in Formulas

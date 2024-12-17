@@ -1,6 +1,6 @@
 ---
 title: Page Navigation
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 4130
 ---
 # Page Navigation

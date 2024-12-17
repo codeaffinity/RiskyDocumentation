@@ -1,6 +1,6 @@
 ---
 title: Image Slider
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # Image Slider
 The Image Slider displays images and enables you to navigate through them.

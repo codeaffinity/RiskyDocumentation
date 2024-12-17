@@ -1,6 +1,6 @@
 ---
 title: Tag Inspector
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 114193
 ---
 # Tag Inspector

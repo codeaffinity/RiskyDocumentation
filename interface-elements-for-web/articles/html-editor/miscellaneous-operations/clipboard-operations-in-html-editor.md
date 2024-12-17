@@ -1,6 +1,6 @@
 ---
 title: Clipboard Operations
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4452
 ---
 # Clipboard Operations

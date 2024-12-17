@@ -1,6 +1,6 @@
 ---
 title: Expand and Collapse Groups in Pivot Tables
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 5374
 ---
 # Expand and Collapse Groups in Pivot Tables

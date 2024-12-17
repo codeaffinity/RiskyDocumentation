@@ -1,6 +1,6 @@
 ---
 title: Changing a Chart Type
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18188
 ---
 # Changing a Chart Type

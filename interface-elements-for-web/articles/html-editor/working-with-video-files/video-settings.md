@@ -1,6 +1,6 @@
 ---
 title: Video Settings
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17997
 ---
 # Video Settings

@@ -1,6 +1,6 @@
 ---
 title: Modify a Hyperlink
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4520
 ---
 # Modify a Hyperlink

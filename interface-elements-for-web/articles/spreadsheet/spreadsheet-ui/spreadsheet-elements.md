@@ -1,6 +1,6 @@
 ---
 title: Spreadsheet Elements
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18088
 ---
 # Spreadsheet Elements

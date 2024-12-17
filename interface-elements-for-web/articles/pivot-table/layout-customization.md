@@ -1,6 +1,6 @@
 ---
 title: Layout Customization
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 11074
 ---
 # Layout Customization

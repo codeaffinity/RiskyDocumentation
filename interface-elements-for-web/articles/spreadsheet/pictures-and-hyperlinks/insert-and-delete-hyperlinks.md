@@ -1,6 +1,6 @@
 ---
 title: Insert and Delete Hyperlinks
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18185
 ---
 # Insert and Delete Hyperlinks

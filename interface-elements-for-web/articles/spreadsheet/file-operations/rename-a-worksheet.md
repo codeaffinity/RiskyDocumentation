@@ -1,6 +1,6 @@
 ---
 title: Rename a Worksheet
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18103
 ---
 # Rename a Worksheet

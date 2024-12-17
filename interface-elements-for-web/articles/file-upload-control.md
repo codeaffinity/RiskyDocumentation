@@ -1,6 +1,6 @@
 ---
 title: File Upload Control
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4402
 ---
 # File Upload

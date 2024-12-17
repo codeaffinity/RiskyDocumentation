@@ -1,6 +1,6 @@
 ---
 title: Tab Control
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 9380
 ---
 # Tab Control

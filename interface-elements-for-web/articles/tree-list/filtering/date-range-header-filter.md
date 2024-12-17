@@ -1,6 +1,6 @@
 ---
 title: Date Range Header Filter
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 ---
 # Date Range Header Filter
 The header filter's drop-down box displays a date range editor for columns containing date and time data.

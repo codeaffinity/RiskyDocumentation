@@ -1,6 +1,6 @@
 ---
 title: Delete Conditions
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 5382
 ---
 # Delete Conditions

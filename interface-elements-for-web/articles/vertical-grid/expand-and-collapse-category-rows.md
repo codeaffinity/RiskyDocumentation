@@ -1,6 +1,6 @@
 ---
 title: Expand and Collapse Category Rows
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 118065
 ---
 # Expand and Collapse Category Rows

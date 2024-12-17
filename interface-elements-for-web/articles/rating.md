@@ -1,6 +1,6 @@
 ---
 title: Rating
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 17435
 ---
 # Rating

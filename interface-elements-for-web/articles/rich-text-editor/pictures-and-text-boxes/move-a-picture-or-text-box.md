@@ -1,6 +1,6 @@
 ---
 title: Move a Picture or Text Box
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113839
 ---
 # Move a Picture or Text Box

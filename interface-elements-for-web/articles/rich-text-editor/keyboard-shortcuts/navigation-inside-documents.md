@@ -1,6 +1,6 @@
 ---
 title: Navigation inside Documents
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113993
 ---
 # Navigation inside Documents

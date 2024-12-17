@@ -1,6 +1,6 @@
 ---
 title: Search Panel
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 118061
 ---
 # Search Panel

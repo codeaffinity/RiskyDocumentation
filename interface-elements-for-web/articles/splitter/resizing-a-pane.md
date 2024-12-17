@@ -1,6 +1,6 @@
 ---
 title: Resizing a Pane
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 7415
 ---
 # Resizing a Pane

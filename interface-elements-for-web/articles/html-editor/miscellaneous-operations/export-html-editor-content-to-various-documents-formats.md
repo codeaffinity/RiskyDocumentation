@@ -1,6 +1,6 @@
 ---
 title: Export Content to Various Documents Formats
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 11350
 ---
 # Export Content to Various Documents Formats

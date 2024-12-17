@@ -1,6 +1,6 @@
 ---
 title: Hide and Display Worksheets
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113721
 ---
 # Hide and Display Worksheets

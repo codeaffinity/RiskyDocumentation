@@ -1,6 +1,6 @@
 ---
 title: Delete a Worksheet
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18104
 ---
 # Delete a Worksheet

@@ -1,6 +1,6 @@
 ---
 title: Pivot Table
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 4855
 ---
 # Pivot Table

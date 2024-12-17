@@ -1,6 +1,6 @@
 ---
 title: Format Cell Content
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18144
 ---
 # Format Cell Content

@@ -1,6 +1,6 @@
 ---
 title: Grid Lookup
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 9354
 ---
 # Grid Lookup

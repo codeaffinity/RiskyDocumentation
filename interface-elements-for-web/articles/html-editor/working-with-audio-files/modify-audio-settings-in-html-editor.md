@@ -1,6 +1,6 @@
 ---
 title: Modify Audio Settings
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17961
 ---
 # Modify Audio Settings

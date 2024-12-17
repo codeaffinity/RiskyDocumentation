@@ -1,6 +1,6 @@
 ---
 title: Dragging Bar Highlight
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 11392
 ---
 # Dragging Bar Highlight

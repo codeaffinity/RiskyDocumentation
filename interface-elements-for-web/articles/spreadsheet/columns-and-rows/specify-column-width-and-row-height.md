@@ -1,6 +1,6 @@
 ---
 title: Specify Column Width and Row Height
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18150
 ---
 # Specify Column Width and Row Height

@@ -1,6 +1,6 @@
 ---
 title: Save or Discard Changes when Editing Rows
-author: Bogdan Harchenko
+author: Sandakelum Senevirathna
 legacyId: 4140
 ---
 # Save or Discard Changes when Editing Rows

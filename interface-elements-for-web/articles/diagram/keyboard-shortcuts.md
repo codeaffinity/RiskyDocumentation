@@ -1,6 +1,6 @@
 ---
 title: Keyboard Shortcuts
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # Keyboard Shortcuts
 

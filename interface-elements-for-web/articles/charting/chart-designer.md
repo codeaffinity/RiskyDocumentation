@@ -1,6 +1,6 @@
 ---
 title: Chart Designer
-author: Roman Karpov
+author: Sandakelum Senevirathna
 legacyId: 114376
 ---
 # Chart Designer

@@ -1,6 +1,6 @@
 ---
 title: Series Selection
-author: Roman Karpov
+author: Sandakelum Senevirathna
 legacyId: 114375
 ---
 # Series Selection

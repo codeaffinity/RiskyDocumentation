@@ -1,6 +1,6 @@
 ---
 title: Change Font Type
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4494
 ---
 # Change Font Type

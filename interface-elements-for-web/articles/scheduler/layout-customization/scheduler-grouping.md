@@ -1,6 +1,6 @@
 ---
 title: Scheduler Grouping
-author: Boris Zaitsev
+author: Sandakelum Senevirathna
 legacyId: 4206
 ---
 # Scheduler Grouping

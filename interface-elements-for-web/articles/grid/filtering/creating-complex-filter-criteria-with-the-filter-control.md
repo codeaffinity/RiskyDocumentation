@@ -1,6 +1,6 @@
 ---
 title: Creating Complex Filter Criteria with the Filter Builder
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17896
 ---
 # Creating Complex Filter Criteria with the Filter Builder

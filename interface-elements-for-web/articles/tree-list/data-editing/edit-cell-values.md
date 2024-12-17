@@ -1,6 +1,6 @@
 ---
 title: Edit Cell Values
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 4523
 ---
 # Edit Cell Values

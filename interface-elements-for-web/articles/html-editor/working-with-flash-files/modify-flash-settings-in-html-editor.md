@@ -1,6 +1,6 @@
 ---
 title: Modify Flash Settings
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17964
 ---
 # Modify Flash Settings

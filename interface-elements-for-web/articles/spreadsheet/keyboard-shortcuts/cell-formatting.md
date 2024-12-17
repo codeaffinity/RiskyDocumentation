@@ -1,6 +1,6 @@
 ---
 title: Cell Formatting
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113760
 ---
 # Cell Formatting

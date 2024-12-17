@@ -1,6 +1,6 @@
 ---
 title: Find and Replace
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18152
 ---
 # Find and Replace

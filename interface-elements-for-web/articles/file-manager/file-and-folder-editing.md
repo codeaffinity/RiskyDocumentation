@@ -1,6 +1,6 @@
 ---
 title: File and Folder Editing
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 9362
 ---
 # File and Folder Editing

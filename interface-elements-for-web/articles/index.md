@@ -1,13 +1,13 @@
 ---
-title: Interface Elements for Web
-author: Alexey Akimov
+title: General Controls & Interface Elements
+author: Sandakelum Senevirathna
 legacyId: 5646
 ---
-# Interface Elements for Web
+# General Controls & Interface Elements
 
-This documentation provides information on individual User Interface Elements such as grids, navigation panes, data editors, etc. Each element can provide context menus, allow numerous mouse operations and support a number of keyboard shortcuts.
+This documentation provides information on individual Common Controls & User Interface Elements such as grids, navigation panes, data editors, etc. Each element can provide context menus, allow numerous mouse operations and support a number of keyboard shortcuts.
 
-To obtain information about these features, browse through the table of contents to locate the element you are interested in.
+To obtain more information about these features, feel free to browse through the table of contents to locate the element you are interested in.
 * [Common Activities](common-activities.md)
 * [Card View](card-view.md)
 * [Charting](charting.md)

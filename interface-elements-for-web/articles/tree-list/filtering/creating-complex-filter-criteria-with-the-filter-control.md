@@ -1,6 +1,6 @@
 ---
 title: Creating Complex Filter Criteria with the Filter Builder
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 ---
 # Creating Complex Filter Criteria with the Filter Builder
 To build complex filter criteria with an unlimited number of filter conditions, combined by logical operators, use the built-in Filter Builder.

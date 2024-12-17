@@ -1,6 +1,6 @@
 ---
 title: Editor Elements
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113795
 ---
 # Editor Elements

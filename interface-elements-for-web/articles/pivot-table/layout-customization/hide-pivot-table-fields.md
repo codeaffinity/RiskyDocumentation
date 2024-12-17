@@ -1,6 +1,6 @@
 ---
 title: Hide Pivot Table Fields
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 5375
 ---
 # Hide Pivot Table Fields

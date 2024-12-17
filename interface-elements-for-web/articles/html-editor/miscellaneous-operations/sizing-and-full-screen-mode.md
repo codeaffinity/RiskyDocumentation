@@ -1,6 +1,6 @@
 ---
 title: Sizing and Full-Screen Mode
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 9352
 ---
 # Sizing and Full-Screen Mode

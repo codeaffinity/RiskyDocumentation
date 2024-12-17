@@ -1,6 +1,6 @@
 ---
 title: Insert, Select, Copy or Delete a Picture or Text Box
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113838
 ---
 # Insert, Select, Copy or Delete a Picture or Text Box

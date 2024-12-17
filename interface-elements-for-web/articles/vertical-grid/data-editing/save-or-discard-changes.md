@@ -1,6 +1,6 @@
 ---
 title: Save or Discard Changes
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 118057
 ---
 # Save or Discard Changes

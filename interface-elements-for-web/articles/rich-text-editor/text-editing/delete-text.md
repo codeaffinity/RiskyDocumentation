@@ -1,6 +1,6 @@
 ---
 title: Delete Text
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113832
 ---
 # Delete Text

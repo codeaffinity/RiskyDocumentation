@@ -1,6 +1,6 @@
 ---
 title: Insert an Image
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 4535
 ---
 # Insert an Image

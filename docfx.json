@@ -40,9 +40,8 @@
     "globalMetadata": {
       "_appName": "Codeaffinity Risky",
       "_appTitle": "Codeaffinity Risky",
-      "_appFaviconPath": "favicon.ico",
+      "_appFaviconPath": "favicon.png",
       "_appFooter": "Copyright (c) 2024 Codeaffinity Technologies. All rights reserved.",
-      "_appLogoPath": "logo.svg",
       "_enableSearch": true,
       "_disableContribution": true
     }

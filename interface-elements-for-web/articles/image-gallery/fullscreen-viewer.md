@@ -1,6 +1,6 @@
 ---
 title: Fullscreen Viewer
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16837
 ---
 # Fullscreen Viewer

@@ -1,6 +1,6 @@
 ---
 title: Navigate through a Document
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113829
 ---
 # Navigate through a Document

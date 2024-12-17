@@ -1,6 +1,6 @@
 ---
 title: Change Font Size
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4495
 ---
 # Change Font Size

@@ -1,6 +1,6 @@
 ---
 title: Delete an Appointment
-author: Boris Zaitsev
+author: Sandakelum Senevirathna
 legacyId: 4213
 ---
 # Delete an Appointment

@@ -1,6 +1,6 @@
 ---
 title: Insert a Symbol
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113849
 ---
 # Insert a Symbol

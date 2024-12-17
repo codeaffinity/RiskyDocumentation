@@ -1,6 +1,6 @@
 ---
 title: Rich Text Editor
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113794
 ---
 # Rich Text Editor

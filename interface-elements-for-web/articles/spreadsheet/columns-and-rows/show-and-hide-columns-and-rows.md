@@ -1,6 +1,6 @@
 ---
 title: Show and Hide Columns and Rows
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18149
 ---
 # Show and Hide Columns and Rows

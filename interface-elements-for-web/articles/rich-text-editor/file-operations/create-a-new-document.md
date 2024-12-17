@@ -1,6 +1,6 @@
 ---
 title: Create a New Document
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113811
 ---
 # Create a New Document

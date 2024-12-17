@@ -1,6 +1,6 @@
 ---
 title: Spell Checker
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 17422
 ---
 # Spell Checker

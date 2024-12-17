@@ -1,6 +1,6 @@
 ---
 title: Insert a Page Break
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113840
 ---
 # Insert a Page Break

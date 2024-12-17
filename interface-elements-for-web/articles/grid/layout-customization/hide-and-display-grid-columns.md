@@ -1,6 +1,6 @@
 ---
 title: Hide and Display Columns
-author: Bogdan Harchenko
+author: Sandakelum Senevirathna
 legacyId: 4151
 ---
 # Hide and Display Columns

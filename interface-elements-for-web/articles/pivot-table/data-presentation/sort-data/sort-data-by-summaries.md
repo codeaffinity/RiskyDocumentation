@@ -1,6 +1,6 @@
 ---
 title: Sort Data by Summaries
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 11060
 ---
 # Sort Data by Summaries

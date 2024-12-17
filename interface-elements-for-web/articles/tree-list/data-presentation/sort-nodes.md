@@ -1,6 +1,6 @@
 ---
 title: Sort Nodes
-author: Bogdan Harchenko
+author: Sandakelum Senevirathna
 legacyId: 4528
 ---
 # Sort Nodes

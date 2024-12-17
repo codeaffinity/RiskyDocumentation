@@ -1,6 +1,6 @@
 ---
 title: Export to an Image
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # Export to an Image
 

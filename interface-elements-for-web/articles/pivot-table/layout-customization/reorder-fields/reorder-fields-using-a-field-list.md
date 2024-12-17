@@ -1,6 +1,6 @@
 ---
 title: Reorder Fields Using a Field List
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 11068
 ---
 # Reorder Fields Using a Field List

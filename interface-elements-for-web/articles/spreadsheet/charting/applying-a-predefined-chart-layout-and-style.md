@@ -1,6 +1,6 @@
 ---
 title: Applying a Predefined Chart Layout and Style
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18189
 ---
 # Applying a Predefined Chart Layout and Style

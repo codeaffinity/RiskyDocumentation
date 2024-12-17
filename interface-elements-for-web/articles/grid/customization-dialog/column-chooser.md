@@ -1,6 +1,6 @@
 ---
 title: Column Chooser Page
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 118831
 ---
 # Column Chooser Page

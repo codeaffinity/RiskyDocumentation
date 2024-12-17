@@ -1,6 +1,6 @@
 ---
 title: Expand and Collapse Nodes
-author: Bogdan Harchenko
+author: Sandakelum Senevirathna
 legacyId: 4527
 ---
 # Expand and Collapse Nodes

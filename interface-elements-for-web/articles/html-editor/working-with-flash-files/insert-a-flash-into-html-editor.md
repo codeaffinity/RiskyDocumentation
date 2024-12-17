@@ -1,6 +1,6 @@
 ---
 title: Insert a Flash
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17967
 ---
 # Insert a Flash

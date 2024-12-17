@@ -1,6 +1,6 @@
 ---
 title: Add and Delete Rows
-author: Bogdan Harchenko
+author: Sandakelum Senevirathna
 legacyId: 4138
 ---
 # Add and Delete Rows

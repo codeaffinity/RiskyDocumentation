@@ -1,6 +1,6 @@
 ---
 title: Hide Fields Using the Context Menu
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 11064
 ---
 # Hide Fields Using the Context Menu

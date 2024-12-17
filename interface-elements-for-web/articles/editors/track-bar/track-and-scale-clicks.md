@@ -1,6 +1,6 @@
 ---
 title: Track and Scale Clicks
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 11390
 ---
 # Track and Scale Clicks

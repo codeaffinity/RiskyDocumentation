@@ -1,6 +1,6 @@
 ---
 title: Divide a Documents into Sections
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113821
 ---
 # Divide a Documents into Sections

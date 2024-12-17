@@ -1,6 +1,6 @@
 ---
 title: Search Panel
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 17897
 ---
 # Search Panel

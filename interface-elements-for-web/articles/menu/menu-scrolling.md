@@ -1,6 +1,6 @@
 ---
 title: Menu Scrolling
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 9383
 ---
 # Menu Scrolling

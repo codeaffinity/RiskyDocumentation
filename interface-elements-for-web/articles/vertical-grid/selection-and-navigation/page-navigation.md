@@ -1,6 +1,6 @@
 ---
 title: Page Navigation
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 118063
 ---
 # Page Navigation

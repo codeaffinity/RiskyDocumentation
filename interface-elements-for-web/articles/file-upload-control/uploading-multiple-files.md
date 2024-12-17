@@ -1,6 +1,6 @@
 ---
 title: Uploading Multiple Files
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 5451
 ---
 # Uploading Multiple Files

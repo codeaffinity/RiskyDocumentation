@@ -1,6 +1,6 @@
 ---
 title: Create a Hyperlink
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 4519
 ---
 # Create a Hyperlink

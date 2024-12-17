@@ -1,6 +1,6 @@
 ---
 title: Track Bar
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 11375
 ---
 # Track Bar

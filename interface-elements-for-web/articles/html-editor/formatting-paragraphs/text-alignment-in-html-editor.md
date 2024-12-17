@@ -1,6 +1,6 @@
 ---
 title: Text Alignment
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4553
 ---
 # Text Alignment

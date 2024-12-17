@@ -1,6 +1,6 @@
 ---
 title: HTML Editor
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 4350
 ---
 # HTML Editor

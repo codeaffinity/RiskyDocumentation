@@ -1,6 +1,6 @@
 ---
 title: Multi-File Selection
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 11353
 ---
 # Multi-File Selection

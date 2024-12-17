@@ -1,6 +1,6 @@
 ---
 title: Filtering Data
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 4144
 ---
 # Filtering Data

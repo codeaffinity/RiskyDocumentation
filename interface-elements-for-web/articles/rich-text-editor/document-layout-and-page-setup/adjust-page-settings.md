@@ -1,6 +1,6 @@
 ---
 title: Adjust Page Settings
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113822
 ---
 # Adjust Page Settings

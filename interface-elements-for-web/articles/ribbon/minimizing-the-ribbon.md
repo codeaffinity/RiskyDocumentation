@@ -1,6 +1,6 @@
 ---
 title: Minimizing the Ribbon
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16828
 ---
 # Minimizing the Ribbon

@@ -1,6 +1,6 @@
 ---
 title: Change Foreground Color
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4500
 ---
 # Change Foreground Color

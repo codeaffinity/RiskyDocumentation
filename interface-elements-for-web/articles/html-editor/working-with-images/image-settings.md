@@ -1,6 +1,6 @@
 ---
 title: Image Settings
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 114307
 ---
 # Image Settings

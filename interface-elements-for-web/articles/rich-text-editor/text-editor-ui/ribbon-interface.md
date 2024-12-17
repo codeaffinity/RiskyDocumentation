@@ -1,6 +1,6 @@
 ---
 title: Ribbon Interface
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113797
 ---
 # Ribbon Interface

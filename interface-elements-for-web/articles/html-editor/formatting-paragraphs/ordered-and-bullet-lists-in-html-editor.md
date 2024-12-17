@@ -1,6 +1,6 @@
 ---
 title: Ordered and Bullet Lists
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4544
 ---
 # Ordered and Bullet Lists

@@ -1,6 +1,6 @@
 ---
 title: Modify a Table
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 6999
 ---
 # Modify a Table

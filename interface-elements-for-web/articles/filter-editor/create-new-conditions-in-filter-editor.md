@@ -1,6 +1,6 @@
 ---
 title: Create New Conditions
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 5381
 ---
 # Create New Conditions

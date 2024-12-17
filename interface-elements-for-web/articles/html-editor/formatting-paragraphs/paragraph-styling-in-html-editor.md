@@ -1,6 +1,6 @@
 ---
 title: Paragraph Styling
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4548
 ---
 # Paragraph Styling

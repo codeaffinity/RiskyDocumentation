@@ -1,6 +1,6 @@
 ---
 title: Switch a Grid to Edit Mode
-author: Bogdan Harchenko
+author: Sandakelum Senevirathna
 legacyId: 4141
 ---
 # Switch a Grid to Edit Mode

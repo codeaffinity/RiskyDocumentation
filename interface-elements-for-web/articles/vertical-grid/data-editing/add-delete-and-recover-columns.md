@@ -1,6 +1,6 @@
 ---
 title: Add, Delete and Recover Columns
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 118052
 ---
 # Add, Delete and Recover Columns

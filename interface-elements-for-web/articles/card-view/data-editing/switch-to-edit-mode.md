@@ -1,6 +1,6 @@
 ---
 title: Switch to Edit Mode
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 115281
 ---
 # Switch to Edit Mode

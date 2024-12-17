@@ -1,6 +1,6 @@
 ---
 title: Using Functions in Formulas
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18244
 ---
 # Using Functions in Formulas

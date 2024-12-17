@@ -1,6 +1,6 @@
 ---
 title: Insert a Picture
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18183
 ---
 # Insert a Picture

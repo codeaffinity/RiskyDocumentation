@@ -1,6 +1,6 @@
 ---
 title: Filter Editor
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 5380
 ---
 # Filter Editor

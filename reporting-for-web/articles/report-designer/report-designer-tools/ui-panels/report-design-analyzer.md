@@ -1,6 +1,6 @@
 ---
 title: Report Design Analyzer
-author: Boris Zaitsev
+author: Sandakelum Senevirathna
 ---
 
 The **Report Design Analyzer** shows errors, warnings, and information messages that help you to detect and fix issues in a report.

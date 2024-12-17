@@ -1,6 +1,6 @@
 ---
 title: Modify an Image's Settings
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 4538
 ---
 # Modify an Image's Settings

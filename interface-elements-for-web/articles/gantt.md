@@ -1,6 +1,6 @@
 ---
 title: Gantt
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 ---
 # Gantt
 

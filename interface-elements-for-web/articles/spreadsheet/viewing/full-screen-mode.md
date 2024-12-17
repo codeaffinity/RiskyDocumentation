@@ -1,6 +1,6 @@
 ---
 title: Full Screen Mode
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113718
 ---
 # Full Screen Mode

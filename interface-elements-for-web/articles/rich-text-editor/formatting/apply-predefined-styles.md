@@ -1,6 +1,6 @@
 ---
 title: Apply Predefined Styles
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113837
 ---
 # Apply Predefined Styles

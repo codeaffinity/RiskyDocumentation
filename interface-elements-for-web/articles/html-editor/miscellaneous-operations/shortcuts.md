@@ -1,6 +1,6 @@
 ---
 title: Shortcuts
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 114192
 ---
 # Shortcuts

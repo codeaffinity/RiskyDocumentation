@@ -1,6 +1,6 @@
 ---
 title: Make Text Bold
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4491
 ---
 # Make Text Bold

@@ -1,6 +1,6 @@
 ---
 title: Bookmark and Hyperlink
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113848
 ---
 # Bookmark and Hyperlink

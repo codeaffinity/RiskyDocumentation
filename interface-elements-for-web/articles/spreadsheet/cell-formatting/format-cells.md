@@ -1,6 +1,6 @@
 ---
 title: Format Cells
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18142
 ---
 # Format Cells

@@ -1,6 +1,6 @@
 ---
 title: Image Gallery Pager
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16836
 ---
 # Image Gallery Pager

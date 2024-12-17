@@ -1,6 +1,6 @@
 ---
 title: Keyboard Shortcuts
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113989
 ---
 # Keyboard Shortcuts

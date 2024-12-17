@@ -1,6 +1,6 @@
 ---
 title: Work with Chart Elements
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # Work with Chart Elements
 

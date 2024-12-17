@@ -1,6 +1,6 @@
 ---
 title: Navigation Bar
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16826
 ---
 # Navigation Bar

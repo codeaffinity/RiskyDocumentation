@@ -1,6 +1,6 @@
 ---
 title: Build Complex Filter Criteria
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 11063
 ---
 # Build Complex Filter Criteria

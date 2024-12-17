@@ -1,6 +1,6 @@
 ---
 title: Change Background Color
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4499
 ---
 # Change Background Color

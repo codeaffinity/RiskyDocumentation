@@ -1,6 +1,6 @@
 ---
 title: Color Edit
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16835
 ---
 # Color Edit

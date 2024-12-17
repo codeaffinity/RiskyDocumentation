@@ -1,6 +1,6 @@
 ---
 title: Change Buttons Clicks
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 11391
 ---
 # Change Buttons Clicks

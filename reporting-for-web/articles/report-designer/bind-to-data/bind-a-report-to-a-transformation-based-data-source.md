@@ -1,6 +1,6 @@
 ---
 title: Bind a Report to a Transformation-Based Data Source
-author: Boris Zaitsev
+author: Sandakelum Senevirathna
 ---
 
 # Bind a Report to a Transformation-Based Data Source

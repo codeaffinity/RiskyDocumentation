@@ -1,6 +1,6 @@
 ---
 title: Select Cells or Cell Content
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18153
 ---
 # Select Cells or Cell Content

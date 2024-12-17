@@ -1,6 +1,6 @@
 ---
 title: Display Hidden Pivot Table Fields
-author: Natalia Kazakova
+author: Sandakelum Senevirathna
 legacyId: 11066
 ---
 # Display Hidden Pivot Table Fields

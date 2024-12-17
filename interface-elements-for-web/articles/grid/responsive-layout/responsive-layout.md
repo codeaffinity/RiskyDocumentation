@@ -1,6 +1,6 @@
 ---
 title: Responsive Layout
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 11830
 ---
 # Responsive Layout

@@ -1,6 +1,6 @@
 ---
 title: Common Activities
-author: Alexey Kazakov
+author: Sandakelum Senevirathna
 legacyId: 11382
 ---
 # Common Activities

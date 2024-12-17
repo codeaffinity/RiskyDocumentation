@@ -1,6 +1,6 @@
 ---
 title: Remove a Table
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 6997
 ---
 # Remove a Table

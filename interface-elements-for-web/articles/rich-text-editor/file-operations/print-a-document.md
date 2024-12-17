@@ -1,6 +1,6 @@
 ---
 title: Print a Document
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 113813
 ---
 # Print a Document

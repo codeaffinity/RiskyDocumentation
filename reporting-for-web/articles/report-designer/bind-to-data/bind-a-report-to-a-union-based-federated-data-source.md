@@ -1,6 +1,6 @@
 ---
 title: Bind a Report to a Union-Based Federated Data Source
-author: Boris Zaitsev
+author: Sandakelum Senevirathna
 ---
 
 # Bind a Report to a Union-Based Federated Data Source

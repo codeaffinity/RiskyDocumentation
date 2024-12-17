@@ -1,6 +1,6 @@
 ---
 title: View Modes
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 11832
 ---
 # View Modes

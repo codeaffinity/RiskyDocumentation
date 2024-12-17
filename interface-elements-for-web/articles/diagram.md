@@ -1,6 +1,6 @@
 ---
 title: Diagram
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # Diagram
 

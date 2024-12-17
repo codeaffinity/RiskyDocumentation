@@ -1,6 +1,6 @@
 ---
 title: Copy and Paste Cell Content
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 18141
 ---
 # Copy and Paste Cell Content

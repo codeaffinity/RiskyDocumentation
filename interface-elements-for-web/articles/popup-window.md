@@ -1,6 +1,6 @@
 ---
 title: Popup Window
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16816
 ---
 # Popup Window

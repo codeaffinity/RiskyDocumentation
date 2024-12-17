@@ -1,6 +1,6 @@
 ---
 title: Select Grid Lookup Rows
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 9356
 ---
 # Select Grid Lookup Rows

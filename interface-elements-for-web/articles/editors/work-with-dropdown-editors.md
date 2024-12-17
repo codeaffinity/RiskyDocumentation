@@ -1,6 +1,6 @@
 ---
 title: Work with Dropdown Editors
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 5529
 ---
 # Work with Dropdown Editors

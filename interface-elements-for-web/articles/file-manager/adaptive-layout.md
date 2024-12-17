@@ -1,6 +1,6 @@
 ---
 title: Adaptive Layout
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 ---
 # Adaptive Layout
 

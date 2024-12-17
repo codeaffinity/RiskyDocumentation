@@ -1,6 +1,6 @@
 ---
 title: Save or Discard Changes
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 115282
 ---
 # Save or Discard Changes

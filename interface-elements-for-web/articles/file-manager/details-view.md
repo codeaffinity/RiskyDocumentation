@@ -1,6 +1,6 @@
 ---
 title: Details View
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 legacyId: 16821
 ---
 # Details View

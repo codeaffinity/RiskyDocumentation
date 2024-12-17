@@ -1,6 +1,6 @@
 ---
 title: Chart Layout
-author: Svetlana Nikulina
+author: Sandakelum Senevirathna
 ---
 # Chart Layout
 The **Diagram** tool creates a chart layout based on predefined algorithms:

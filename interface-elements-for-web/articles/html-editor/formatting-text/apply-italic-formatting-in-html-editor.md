@@ -1,6 +1,6 @@
 ---
 title: Apply Italic Formatting
-author: Anna Kondratova
+author: Sandakelum Senevirathna
 legacyId: 4492
 ---
 # Apply Italic Formatting
